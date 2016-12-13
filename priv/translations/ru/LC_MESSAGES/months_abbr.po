@@ -40,7 +40,7 @@ msgstr "Июн."
 
 #: lib/l10n/translator.ex:206
 msgid "Mar"
-msgstr "Мрт."
+msgstr "Мар."
 
 #: lib/l10n/translator.ex:208
 msgid "May"
