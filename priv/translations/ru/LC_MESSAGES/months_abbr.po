@@ -12,48 +12,48 @@ msgstr ""
 
 #: lib/l10n/translator.ex:207
 msgid "Apr"
-msgstr "апр."
+msgstr "Апр."
 
 #: lib/l10n/translator.ex:211
 msgid "Aug"
-msgstr "авг."
+msgstr "Авг."
 
 #: lib/l10n/translator.ex:215
 msgid "Dec"
-msgstr "дек."
+msgstr "Дек."
 
 #: lib/l10n/translator.ex:205
 msgid "Feb"
-msgstr "фев."
+msgstr "Фев."
 
 #: lib/l10n/translator.ex:204
 msgid "Jan"
-msgstr "янв."
+msgstr "Янв."
 
 #: lib/l10n/translator.ex:210
 msgid "Jul"
-msgstr "июля"
+msgstr "Июл."
 
 #: lib/l10n/translator.ex:209
 msgid "Jun"
-msgstr "июня"
+msgstr "Июн."
 
 #: lib/l10n/translator.ex:206
 msgid "Mar"
-msgstr "марта"
+msgstr "Мрт."
 
 #: lib/l10n/translator.ex:208
 msgid "May"
-msgstr "мая"
+msgstr "Май"
 
 #: lib/l10n/translator.ex:214
 msgid "Nov"
-msgstr "нояб."
+msgstr "Нояб."
 
 #: lib/l10n/translator.ex:213
 msgid "Oct"
-msgstr "окт."
+msgstr "Окт."
 
 #: lib/l10n/translator.ex:212
 msgid "Sep"
-msgstr "сент."
+msgstr "Сент."
